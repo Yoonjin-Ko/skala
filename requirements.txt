@@ -1,0 +1,6 @@
+pydantic
+pandas
+pytest
+httpx
+ruff
+pyarrow
